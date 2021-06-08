@@ -1,5 +1,5 @@
 Precision metric: 0.5276086567953989
 Recall Metric: 0.9740441855468127
 Accuracy Metric: 0.9603665521191295
-F1-score Metric: 0.5421882551964872
+F1-score Metric: 0.6844646510895842
 Test Set AUC: 0.985
