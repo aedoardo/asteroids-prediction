@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1622629258887,"sparkVersion":"3.1.1","uid":"StringIndexer_bbef331c8d18","paramMap":{"outputCol":"orbit_id_indexed","handleInvalid":"keep","inputCol":"orbit_id"},"defaultParamMap":{"stringOrderType":"frequencyDesc","outputCol":"StringIndexer_bbef331c8d18__output","handleInvalid":"error"}}
